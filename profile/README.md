@@ -55,8 +55,6 @@ For players comparing Deep Rock Galactic reviews or checking Deep Rock Galactic 
 4. Add Deep Rock Galactic multiplayer goals or mineral notes to transform customs into dive focus.  
 5. Save the prep settings and queue Deep Rock Galactic download sessions with the right dwarven crew.  
 
-![Class notes and mineral routes flowing into live Deep Rock Galactic mission queues](https://icon2.cleanpng.com/20180502/qye/kisspng-deep-rock-galactic-youtube-geneshift-xbox-one-proc-deep-5aea6c5f7a1f58.7459168015253126075002.jpg)
-
 ## Match Fixes and Practice Tips
 
 Client not launching: confirm platform ownership and reconnect on your own Deep Rock Galactic account. Lobby not loading: review party filters, crossplay toggles, and region access. Class pace looks wrong: check unlock progress before rerunning Deep Rock Galactic classes blocks. Crew cannot invite you: verify party permissions on accounts you control and confirm platform overlay settings. Slow load times: reduce unnecessary overlays, split long reviews, or rebuild the Deep Rock Galactic missions checklist around the most important biomes on your own game account.
